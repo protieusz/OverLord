@@ -1,0 +1,1 @@
+vminora is a testing QMK source that is borrowed from Vulpes Minora to test how the split keyboard QMK works.
