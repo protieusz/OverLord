@@ -1,0 +1,77 @@
+{
+    "keyboard_name": "overlord",
+    "manufacturer": "protieuskeebs",
+    "maintainer": "protieuskeebs",
+    "url": "",
+
+    "usb": {
+        "vid": "0xFEED",
+        "pid": "0x0000",
+        "device_version": "1.0.0"
+    },
+
+    "processor": "RP2040",
+    "bootloader": "rp2040",
+
+    "diode_direction": "COL2ROW",
+
+
+    "matrix_pins": {
+        "cols": ["GP27", "GP26", "GP15", "GP14", "GP8"],
+        "rows": ["GP1", "GP2", "GP3", "GP4"]
+
+    },
+
+    "split": {
+        "enabled": true,
+        "usb_detect": {
+            "enabled": true,
+            "polling_interval": 1,
+            "timeout": 5000
+        }
+    },
+
+            
+    "layouts": {
+        "LAYOUT": {
+            "layout": [
+                { "label": "K000", "matrix": [0, 0], "w": 1, "x": 0, "y": 0 },
+                { "label": "K001", "matrix": [0, 1], "w": 1, "x": 1, "y": 0 },
+                { "label": "K002", "matrix": [0, 2], "w": 1, "x": 2, "y": 0 },
+                { "label": "K003", "matrix": [0, 3], "w": 1, "x": 3, "y": 0 },
+                { "label": "K004", "matrix": [0, 4], "w": 1, "x": 4, "y": 0 },
+                { "label": "K004B", "matrix": [4, 4], "w": 1, "x": 5, "y": 0 },
+                { "label": "K003B", "matrix": [4, 3], "w": 1, "x": 6, "y": 0 },
+                { "label": "K002B", "matrix": [4, 2], "w": 1, "x": 7, "y": 0 },
+                { "label": "K001B", "matrix": [4, 1], "w": 1, "x": 8, "y": 0 },
+                { "label": "K000B", "matrix": [4, 0], "w": 1, "x": 9, "y": 0 },
+                { "label": "K100", "matrix": [1, 0], "w": 1, "x": 10, "y": 0 },
+                { "label": "K101", "matrix": [1, 1], "w": 1, "x": 11, "y": 0 },
+                { "label": "K102", "matrix": [1, 2], "w": 1, "x": 12, "y": 0 },
+                { "label": "K103", "matrix": [1, 3], "w": 1, "x": 13, "y": 0 },
+                { "label": "K104", "matrix": [1, 4], "w": 1, "x": 14, "y": 0 },
+                { "label": "K104B", "matrix": [5, 4], "w": 1, "x": 15, "y": 0 },
+                { "label": "K103B", "matrix": [5, 3], "w": 1, "x": 16, "y": 0 },
+                { "label": "K102B", "matrix": [5, 2], "w": 1, "x": 17, "y": 0 },
+                { "label": "K101B", "matrix": [5, 1], "w": 1, "x": 18, "y": 0 },
+                { "label": "K100B", "matrix": [5, 0], "w": 1, "x": 19, "y": 0 },
+                { "label": "K200", "matrix": [2, 0], "w": 1, "x": 20, "y": 0 },
+                { "label": "K201", "matrix": [2, 1], "w": 1, "x": 21, "y": 0 },
+                { "label": "K202", "matrix": [2, 2], "w": 1, "x": 22, "y": 0 },
+                { "label": "K203", "matrix": [2, 3], "w": 1, "x": 23, "y": 0 },
+                { "label": "K204", "matrix": [2, 4], "w": 1, "x": 24, "y": 0 },
+                { "label": "K204B", "matrix": [6, 4], "w": 1, "x": 25, "y": 0 },
+                { "label": "K203B", "matrix": [6, 3], "w": 1, "x": 26, "y": 0 },
+                { "label": "K202B", "matrix": [6, 2], "w": 1, "x": 27, "y": 0 },
+                { "label": "K201B", "matrix": [6, 1], "w": 1, "x": 28, "y": 0 },
+                { "label": "K200B", "matrix": [6, 0], "w": 1, "x": 29, "y": 0 },
+                { "label": "K302", "matrix": [3, 2], "w": 1, "x": 30, "y": 0 },
+                { "label": "K303", "matrix": [3, 3], "w": 1, "x": 31, "y": 0 },
+                { "label": "K304", "matrix": [3, 4], "w": 1, "x": 32, "y": 0 },
+                { "label": "K304B", "matrix": [7, 4], "w": 1, "x": 33, "y": 0 },
+                { "label": "K303B", "matrix": [7, 3], "w": 1, "x": 34, "y": 0 },
+                { "label": "K302B", "matrix": [7, 2], "w": 1, "x": 35, "y": 0 }
+            ]
+        }
+    }
+}
