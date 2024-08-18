@@ -28,6 +28,8 @@ A List Of Mods Made To The Original PCB file by darakuneko:
 
 # Renders
 
+![Screenshot 2024-08-18 at 1 39 52 AM](https://github.com/user-attachments/assets/d226c8ea-a041-4107-967d-e291f5cce6a5)
+![Screenshot 2024-08-18 at 1 40 03 AM](https://github.com/user-attachments/assets/c09dc3b3-35cf-40ec-8067-2123692cf95b)
 ![Screenshot 2024-08-01 at 8 59 47 PM](https://github.com/user-attachments/assets/22c92666-c021-4ffe-a35f-2ed77ccb87c3)
 ![Screenshot 2024-08-01 at 8 59 58 PM](https://github.com/user-attachments/assets/0ce3aff8-7f59-4940-824e-0c5b49a66487)
 ![Screenshot 2024-08-02 at 10 06 23 AM](https://github.com/user-attachments/assets/62f784b0-ee7d-405e-b139-8fa7f7711695)
