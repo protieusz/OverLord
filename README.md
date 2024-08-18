@@ -1,2 +1,3 @@
-# MutantX
-Unified split with 2x mcus &amp; 2x trackballs.
+# OverLord
+
+Lotus layout unified split with 2x mcus & 2x trackballs.
