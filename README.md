@@ -4,7 +4,7 @@ Lotus layout unified split with 2x mcus & 2x trackballs.
 
 # Detailed Summary
 
-OverLord is a heavily modified version of Noraneko42L which has been blessed by darakuneko himself for the mod. Noraneko42 was originally designed by [darakuneko](https://github.com/darakuneko/Noraneko/tree/main/noraneko42l).
+OverLord is a heavily modified version of Noraneko42L which has been blessed by darakuneko himself for the mod. Noraneko42L was originally designed by [darakuneko](https://github.com/darakuneko/Noraneko/tree/main/noraneko42l).
 
 A List Of Mods Made To The Original PCB file by darakuneko:
 
@@ -18,7 +18,9 @@ A List Of Mods Made To The Original PCB file by darakuneko:
 
 -OverLord is powered by 2x RP2040 Core - As which you can get from AE.
 
--QMK code is borrowed from miketronic from Fingerpunch Discord and modified the matrix to fit my OverLord. No suppport will be given since I just copy and paste.
+-Shout out to miketronic from Fingerpunch discord for helping me with the QMK coding from his [BR/KN](https://github.com/miketronic/brkn-keyboard) and modifing the matrix to fit my OverLord. No suppport will be given since I just copy and paste.
+
+-Shout to Doesntfazer of KeyboardDweebs.net for proofing reading and sanity checking my PCB schematic.
 
 -Use M2 brass hot inserts 3.2mm diameter and 4mm length for the M2 screws to secure the case. I forgot how long is my M2 screws are but they should be greater than 10mm so estimated around 14.6mm. Play around with and buy multiple M2 lenght screws.
 
