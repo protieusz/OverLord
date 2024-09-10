@@ -29,7 +29,19 @@ A List Of Mods Made To The Original PCB file by darakuneko:
 -Both RP2040 Core-A mcus will be "linked" together by header pin wires instead of TRRS connector.
 
 # Production Pics
+![IMG_2935](https://github.com/user-attachments/assets/1da241d4-54e2-401f-b791-bc9b68aad2a4)
+![IMG_2934](https://github.com/user-attachments/assets/647acaec-8159-430f-b13a-d76f6e1fe1f6)
+![IMG_2933](https://github.com/user-attachments/assets/c4356f1c-eaaf-44e8-ad73-be2031385a29)
+![IMG_2932](https://github.com/user-attachments/assets/7aaf6300-788d-4f8f-a8ae-9dc21a8c248f)
+![IMG_2925](https://github.com/user-attachments/assets/f2074fa6-50f8-43b0-bd2a-b366006c7960)
+![IMG_2926](https://github.com/user-attachments/assets/5eb11ba6-ae19-4d4b-a194-34045df7f84a)
+![IMG_2927](https://github.com/user-attachments/assets/12a6a1a3-c5bb-4e49-add8-b8f83245eb7f)
+![IMG_2928](https://github.com/user-attachments/assets/2381b038-4e48-465b-936d-57c9c7905e73)
+![IMG_2929](https://github.com/user-attachments/assets/0c5eb233-827a-4c14-9c21-08bf278f4b90)
+![IMG_2930](https://github.com/user-attachments/assets/558dbc05-afa1-49bc-94e7-346e9ce1b917)
+![IMG_2931](https://github.com/user-attachments/assets/d82417af-c64c-422a-bfb3-c41f0b6072d9)
 
+# Test Fitting
 ![IMG_2707](https://github.com/user-attachments/assets/029263f2-cd57-474d-bc82-2caf53dad9ac)
 ![IMG_2706](https://github.com/user-attachments/assets/a9384805-8dea-4da3-90c1-0826b30a93cf)
 ![IMG_2705](https://github.com/user-attachments/assets/06e1bc89-0b4b-46f0-b3e3-8296902998e6)
