@@ -11,6 +11,10 @@ Thank you ![PCBWay](https://github.com/user-attachments/assets/6f3bc12d-9a62-42c
 
 OverLord is a heavily modified version of Noraneko42L which has been blessed by darakuneko himself for the mod. Noraneko42L was originally designed by [darakuneko](https://github.com/darakuneko/Noraneko/tree/main/noraneko42l).
 
+Entire PCB was designed using EasyEDA. I will upload a convert PCB file later. Be warn, the conversion might not be accurate and you might see a lot of DRC errors in KiCad but in EasyEDA it is ok since I have a working PCB right now.
+
+Right now at the moment still working out the kinks of getting the 2nd trackball to scroll and the orientation for the main mouse trackball. All the keys are working properly.
+
 A List Of Mods Made To The Original PCB file by darakuneko:
 
 -Eliminate the extra 6th columns on each sides.
