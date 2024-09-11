@@ -2,6 +2,11 @@
 
 Lotus layout unified split with 2x mcus & 2x trackballs.
 
+# Sponsorship
+
+Thank you ![PCBWay](https://github.com/user-attachments/assets/6f3bc12d-9a62-42ca-8eee-fdd73b5ef344) for sponsoring. For all you PCB/PCBA needs, PCBWay is the way to go. Good quality and customer service.
+
+
 # Detailed Summary
 
 OverLord is a heavily modified version of Noraneko42L which has been blessed by darakuneko himself for the mod. Noraneko42L was originally designed by [darakuneko](https://github.com/darakuneko/Noraneko/tree/main/noraneko42l).
