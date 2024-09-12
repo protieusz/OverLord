@@ -39,6 +39,8 @@ A List Of Mods Made To The Original PCB file by darakuneko:
 
 -Both RP2040 Core-A mcus will be "linked" together by header pin wires instead of TRRS connector.
 
+-Heads up if you are using Resin STEP files, resin print did not come out good, since the middle part was warped and the factory recommend to use 3.5mm for the bottom flat case area in order to prevent warping during print. Just use the PLA is more safer. Use the files at your own risk. You can modify the STEP files.
+
 # Production Pics
 ![IMG_2935](https://github.com/user-attachments/assets/1da241d4-54e2-401f-b791-bc9b68aad2a4)
 ![IMG_2934](https://github.com/user-attachments/assets/647acaec-8159-430f-b13a-d76f6e1fe1f6)
