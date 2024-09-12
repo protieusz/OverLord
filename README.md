@@ -31,6 +31,8 @@ A List Of Mods Made To The Original PCB file by darakuneko:
 
 -Shout to Doesntfazer of KeyboardDweebs.net for proofing reading and sanity checking my PCB schematic.
 
+-Special thanks to Doesntfazer for fixing my QMK pointing device settings and finally got the scrolling ball to work.
+
 -Use M2 brass hot inserts 3.2mm diameter and 4mm length for the M2 screws to secure the case. I forgot how long is my M2 screws are but they should be greater than 10mm so estimated around 14.6mm. Play around with and buy multiple M2 lenght screws.
 
 -"Eye of Sauron" icon logo embross on the top case was borrowed from [Symbolon from the Noun Project](https://thenounproject.com/icon/eye-of-sauron-1007756/). "Eye of Sauron" logo was used to give it a dark lord theme.
