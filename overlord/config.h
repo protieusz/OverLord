@@ -35,7 +35,7 @@
 //#    define POINTING_DEVICE_TASK_THROTTLE_MS 10
 //#    define POINTING_DEVICE_ROTATION_180_RIGHT
 #    define POINTING_DEVICE_INVERT_X_RIGHT
-#    define POINTING_DEVICE_COMBINED
+#    define POINTING_DEVICE_COMBINED //Do not put pointing_device_right in any area of the config.h or else your scrolling ball will not work! Credit: Doesntfazer
 //#      define POINTING_DEVICE_ROTATION_180_RIGHT
 //#      define POINTING_DEVICE_INVERT_X
 
