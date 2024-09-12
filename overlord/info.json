@@ -14,7 +14,9 @@
     "bootloader": "rp2040",
 
     "diode_direction": "COL2ROW",
-
+    "features": {
+        "extrakey": true
+       },  
 
     "matrix_pins": {
         "cols": ["GP27", "GP26", "GP15", "GP14", "GP13"],
