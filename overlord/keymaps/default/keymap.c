@@ -74,8 +74,8 @@ void keyboard_post_init_user(void) {
 }
 
 report_mouse_t pointing_device_task_combined_user(report_mouse_t left_report, report_mouse_t right_report) {
-    left_report.h = left_report.x;
-    left_report.v = left_report.y;
+    left_report.h = -left_report.x;  //makes the scroll direction proper, scroll up is up by adding a negative
+    left_report.v = -left_report.y;  //scroll down is down by adding a negative in front of the left_report
     left_report.x = 0;
     left_report.y = 0;
     return pointing_device_combine_reports(left_report, right_report);
