@@ -19,7 +19,7 @@ A List Of Mods Made To The Original PCB file by darakuneko:
 
 -Eliminate the extra 6th columns on each sides.
 
--Two square hole was created in the middle that can accomodate 2x 25mm trackballs powered by 2x PMW3360 sensors.
+-Two circular holes were created in the middle that can accomodate 2x 25mm trackballs powered by 2x PMW3360 sensors.
 
 -Base of the trackball holders with lens cut out is integrated into the top case with integrated 5mm switch plate. Top case sits flush with pcb.
 
