@@ -4,7 +4,7 @@ Lotus layout unified split with 2x mcus & 2x trackballs.
 
 # Sponsorship
 
-Thank you ![PCBWay](https://github.com/user-attachments/assets/6f3bc12d-9a62-42ca-8eee-fdd73b5ef344) for sponsoring. For all you PCB/PCBA needs, PCBWay is the way to go. Good quality and customer service.
+Thank you ![PCBWay](https://github.com/user-attachments/assets/6f3bc12d-9a62-42ca-8eee-fdd73b5ef344) for sponsoring. For all you PCB/PCBA needs, PCBWay is the way to go. Good quality and customer service. During files submission, PCBWay take the time to check the BOM file and the component placement file to make sure that it is up to specs. If there are any issues, PCBWay will email back and inform the customer if there are any corrections that need to be made and also provide solutions for the customer. I highly recommend PCBWay. 
 
 
 # Detailed Summary
